@@ -3,4 +3,4 @@ aa master izmjena third
 nova master
 aasec
 aa
-linija 4.
+linija master
