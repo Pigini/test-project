@@ -4,3 +4,4 @@ nova master
 aasec
 aa
 linija master
+linija
